@@ -22,6 +22,7 @@
 	<ul>
 		<li>Home</li>
 		<li>Product</li>
+		<li>Pricing</li>
 	</ul>
 </header>
 <main>
