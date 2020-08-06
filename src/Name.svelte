@@ -1,5 +1,6 @@
 <script>
   // Kode kode Javascript
+  export let name;
 </script>
 
 <style>
@@ -10,5 +11,5 @@
 </style>
 
 <div>
-  <h1>Sobat Code</h1>
+  <h1>{name}</h1>
 </div>
